@@ -1,4 +1,4 @@
-Ejemplo: Counting Sort -> (3)(34)(58)(456)(678)    TIME: 345# CountingSortVsRadixSort
+# COUNTING SORT VS RADIX SORT
 
 Este repositorio contiene la implementación(No la teoría) de los algoritmos de ordenamiento Counting Sort y Radix Sort ambos de complejidad O(n)
 
