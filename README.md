@@ -20,13 +20,13 @@ Este repositorio contiene la implementación(No la teoría) de los algoritmos de
 
 # ¿Como funciona?
 
-	La interfaz tiene 6 JTextArea de las cuales 1 recibe el tamaño del arreglo que queremos crear con data aleatoria.
+La interfaz tiene 6 JTextArea de las cuales 1 recibe el tamaño del arreglo que queremos crear con data aleatoria.
+
 Boton Crear-> Crea un arreglo de tamaño ya especificado en el JTextArea("Ingrese Tamaño") con valores aleatorios entre '0-1000'
 
 	Ejemplo: Ingreso tamaño 5 y clickeo el boton 'Crear'-> (3)(58)(678)(34)(456) 
 
-Boton Ordenar-> Empieza a llamar a los metodos radixSort() y countingSort() y asignar sus respectivos argumentos para ordenar el arreglo
-								y posteriormente mostrar debajo del JLabel en el JTextArea el arreglo ordenado y al costado del JLabel el tiempo que 											demoro.
+Boton Ordenar-> Empieza a llamar a los metodos radixSort() y countingSort() y asignar sus respectivos argumentos para ordenar el arreglo y posteriormente mostrar debajo del JLabel en el JTextArea el arreglo ordenado y al costado del JLabel el tiempo que demoro.
 
 	Ejemplo: Counting Sort -> (3)(34)(58)(456)(678)    TIME: 345					
 
